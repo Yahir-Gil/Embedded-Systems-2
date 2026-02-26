@@ -1079,20 +1079,20 @@ void app_main(void)
 
 *  2 leds and 2 buttons in the page
 
-![Diagrama del sistema](recursos/imgs/2_leds.png)
+![Diagrama del sistema](recursos/imgs/2leds.png)
 
 * The 2 buttons in the page 
 
-![Diagrama del sistema](recursos/imgs/2_botones.png)
+![Diagrama del sistema](recursos/imgs/pagbotones.png)
 
 
 * 2 buttons, 2 leds and the button for counter
 
-![Diagrama del sistema](recursos/imgs/Counter.png)
+![Diagrama del sistema](recursos/imgs/boton.png)
 
 * Page 
 
-![Diagrama del sistema](recursos/imgs/Page_counter.png)
+![Diagrama del sistema](recursos/imgs/contador.png)
 
 * Motor DC and the slider
 
