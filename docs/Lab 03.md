@@ -1086,11 +1086,11 @@ void app_main(void)
 ![Diagrama del sistema](recursos/imgs/pagbotones.png)
 
 
-* 2 buttons, 2 leds and the button for counter
+* 2 leds and the button for counter
 
 ![Diagrama del sistema](recursos/imgs/boton.png)
 
-* Page 
+* Page with the counter 
 
 ![Diagrama del sistema](recursos/imgs/contador.png)
 
